@@ -1,0 +1,486 @@
+
+
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*common padding*/
+    .c_padding {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+	 /*common title strat*/
+.common_title{
+	padding-bottom: 30px;
+}
+.common_title h1 {
+    margin-bottom: 14px;
+    font-size: 24px;
+}
+.common_title p{
+	font-size: 14px;
+}
+/*header strat*/
+.dp_search_ul {
+
+    left: -13px !important;
+}
+/*banner strat*/
+.banner {
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+.banner_content h1 {
+	text-align: center;
+    font-size: 26px;
+}
+.banner_content p {
+	text-align: center;
+    font-size: 15px;
+     letter-spacing: 0px; 
+     word-spacing: 0px; 
+    line-height: 22px;
+}
+.b_button {
+	width: 115px;
+    margin: auto;
+}
+/*banner bottom*/
+.banner_bottom {
+    padding-bottom: 30px !important;
+}
+.b_bottom_content p {
+    font-size: 14px;
+}
+.b_bottom_button {
+	width: 115px;
+	margin: auto;
+    margin-top: 0px;
+}
+/*construction strat*/
+.cons_content {
+    text-align: center;
+}
+.cons_content h2 {
+    font-size: 18px;
+}
+.cons_icon {
+    padding: 10px 0px;
+    text-align: center;
+}
+/*featured strat*/
+.overlay {
+    padding-top: 11px;
+}
+.overlay_content h2 {
+    font-size: 16px;
+}
+.overlay_icon i {
+    font-size: 12px;
+}
+/*=================feedback section strat=====================*/
+.feed_img img {
+    border-radius: 50%;
+    height: 111px;
+    width: 100px !important;
+    margin: auto;
+    padding-top: 10px;
+}
+.feed_content {
+    text-align: center;
+    padding: 10px;
+}
+/*counter strat*/
+.s_counter h2 {
+    font-size: 24px;
+}
+.s_counter p {
+
+    margin-bottom: 5px;
+}
+.s_counter {
+    margin-bottom: 20px;
+}
+/*contact_content*/
+.c_content h5 {
+    font-size: 16px;
+}
+.c_content {
+    margin-bottom: 10px;
+}
+/*service strat*/
+.serv_last{
+    margin-bottom: 0px !important;
+}
+.single_service {
+    margin-bottom: 15px;
+}
+.service_cont {
+    text-align: center;
+}
+.service_cont p{
+    margin-bottom: 5px;
+}
+    
+
+.service_cont h2 {
+    margin: 12px 0px;
+    font-size: 16px;
+
+}
+/*footer top*/
+.fot_top_single h4 {
+    text-align: center;
+}
+.fot_top_single {
+    margin-bottom: 25px;
+}
+li.list-inline-item.f_top_a a i{
+    text-align: center;
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a a{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a{
+    font-size: 12px !important;
+}
+.footer_2 p{
+    font-size: 12px !important;
+}
+.fot_top_single p {
+    font-size: 12px;
+}
+/*footer*/
+.ff_last {
+    text-align: center !important;
+}
+
+.left_footer p{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+}
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*common padding*/
+    .c_padding {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+    .common_title h1 {
+      margin-bottom: 14px;
+      font-size: 32px;
+}
+.service_cont h2 {
+    margin: 16px 0px;
+    font-size: 18px;
+  
+}
+.common_title{
+    padding-bottom: 60px;
+
+}
+ /*common title end*/
+
+/*banner strat*/
+.banner {
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+.banner_content h1 {
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 26px;
+}
+.banner_content p {
+    text-align: center;
+    font-size: 15px;
+     letter-spacing: 0px; 
+     word-spacing: 0px; 
+    line-height: 22px;
+}
+.b_button {
+    margin: auto;
+}
+/*banner bottom*/
+.cons_content {
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.b_bottom_content p {
+    font-size: 16px;
+}
+.b_bottom_button {
+    margin-top: 18px;
+}
+/*featured strat*/
+.overlay {
+    padding-top: 11px;
+}
+.overlay_icon i {
+    font-size: 14px;
+}
+/*constraction*/
+.cons_content h2 {
+    font-size: 18px;
+}
+.cons_icon i {
+    font-size: 40px;
+}
+/*feedback section strat*/
+.feed_img img {
+    border-radius: 50%;
+    height: 111px;
+    width: 100px !important;
+    margin: auto;
+    padding-top: 10px;
+}
+.feed_content {
+    text-align: center;
+    padding: 10px;
+}
+/*counter strat*/
+.s_counter h2 {
+    font-size: 38px;
+}
+/*contact_content*/
+.c_content h5 {
+    font-size: 18px;
+}
+.c_content {
+    margin-bottom: 10px;
+}
+/*service strat*/
+.service_cont h2 {
+    margin: 12px 0px;
+    font-size: 16px;
+}
+/*footer top*/
+
+.fot_top_single {
+    margin-bottom: 25px;
+}
+li.list-inline-item.f_top_a a i{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a a{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a{
+    font-size: 12px !important;
+}
+.footer_2 p{
+    font-size: 12px !important;
+}
+.fot_top_single p {
+    font-size: 12px;
+}
+/*footer*/
+.ff_last {
+    text-align: center !important;
+}
+
+.left_footer p{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+}
+
+
+
+
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+      /*common padding*/
+    .c_padding {
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+	/*common title strat*/
+	.common_title h1 {
+      margin-bottom: 14px;
+      font-size: 32px;
+}
+.common_title{
+	padding-bottom: 70px;
+}
+/*header strat*/
+.dp_search_ul {
+    left: -37px !important;
+}
+/*banner strat*/
+.banner {
+    padding-top: 110px;
+    padding-bottom: 100px;
+}
+.banner_content h1 {
+    font-size: 38px;
+}
+.banner_content p {
+    font-size: 15px;
+     letter-spacing: 0px; 
+     word-spacing: 0px; 
+    line-height: 22px;
+}
+/*construction strat*/
+.cons_content h2 {
+    font-size: 18px;
+}
+.cons_icon i {
+    font-size: 40px;
+}
+.cons_content {
+    text-align: center;
+}
+.cons_icon {
+    padding-bottom: 0px !important;
+     padding: 15px 0px;
+    text-align: center;
+}
+
+/*featured strat*/
+.overlay {
+    padding-top: 11px;
+}
+.overlay_icon i {
+    font-size: 16px;
+    padding: 8px;
+}
+.feed_img img {
+    border-radius: 50%;
+    height: 111px;
+    width: 100px !important;
+    margin: auto;
+    padding-top: 10px;
+}
+.feed_content {
+    text-align: center;
+    padding: 10px;
+}
+/*counter strat*/
+.s_counter h2 {
+    font-size: 38px;
+}
+/*contact_content*/
+.c_content h5 {
+    font-size: 18px;
+}
+/*service strat*/
+.service_cont h2 {
+    margin: 12px 0px;
+    font-size: 18px;
+
+}
+/*footer top*/
+.fot_top_single h4 {
+    font-size: 18px;
+    margin-top: 16px;
+    margin-bottom: 13px;
+}
+.fot_top_single {
+    margin-bottom: 25px;
+}
+li.list-inline-item.f_top_a a i{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a a{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a{
+    font-size: 12px !important;
+}
+.footer_2 p{
+    font-size: 12px !important;
+}
+.fot_top_single p {
+    font-size: 12px;
+}
+/*footer*/
+.ff_last {
+    text-align: center !important;
+}
+
+.left_footer p{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header strat*/
+.dp_search_ul {
+    left: -144px !important;
+}
+/*banner strat*/
+.banner_content h1 {
+    font-size: 52px;
+}
+
+/*construction strat*/
+.cons_content {
+    margin-left: 24px;
+}
+/*featured strat*/
+
+.overlay_icon i {
+    font-size: 16px;
+    padding: 8px;
+}
+/*footer top*/
+.fot_top_single h4 {
+    font-size: 18px;
+    margin-top: 16px;
+    margin-bottom: 13px;
+}
+.fot_top_single {
+    margin-bottom: 25px;
+}
+li.list-inline-item.f_top_a a i{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a a{
+    font-size: 12px !important;
+}
+li.list-inline-item.f_top_a{
+    font-size: 12px !important;
+}
+.footer_2 p{
+    font-size: 12px !important;
+}
+.fot_top_single p {
+    font-size: 12px;
+}
+/*footer*/
+.ff_last {
+    text-align: center !important;
+}
+
+.left_footer p{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+/*header strat*/
+.dp_search_ul {
+    left: -144px !important;
+}
+}
